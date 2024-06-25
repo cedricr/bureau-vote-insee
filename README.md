@@ -24,6 +24,9 @@ se contente ici de :
   avec les contours proposés par data.gouv
 - exporter le résultat final au format topojson
 
+Le fichier généré a été publié sur
+[data.gouv.fr](https://www.data.gouv.fr/fr/datasets/proposition-de-contours-des-bureaux-de-vote-selon-la-methode-de-linsee/)
+
 ## Prérequis
 
 - 7za
