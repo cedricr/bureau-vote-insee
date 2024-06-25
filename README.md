@@ -48,4 +48,4 @@ Le fichier généré a été publié sur
     https://static.data.gouv.fr/resources/bureaux-de-vote-et-adresses-de-leurs-electeurs/20230626-135808/table-bv-reu.csv
 
 - Contours communaux et données départementales IGN Admin Express COG Carto :
-  https://data.geopf.fr/telechargement/download/ADMIN-EXPRESS/ADMIN-EXPRESS_3-2__SHP_WGS84G_FRA_2024-06-19/ADMIN-EXPRESS_3-2__SHP_WGS84G_FRA_2024-06-19.7z
+  https://data.geopf.fr/telechargement/download/ADMIN-EXPRESS-COG-CARTO/ADMIN-EXPRESS-COG-CARTO_3-2__SHP_WGS84G_FRA_2024-02-22/ADMIN-EXPRESS-COG-CARTO_3-2__SHP_WGS84G_FRA_2024-02-22.7z
