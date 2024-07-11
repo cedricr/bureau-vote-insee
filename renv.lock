@@ -654,10 +654,10 @@
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "InseeFrLab",
+      "RemoteUsername": "cedricr",
       "RemoteRepo": "mapvotr",
-      "RemoteRef": "main",
-      "RemoteSha": "1875e37a93f7214c83790d6ae374a8d5fdf8b4a9",
+      "RemoteRef": "0bfd59b7a38eb9ecf868371f5d279aa22b115ed1",
+      "RemoteSha": "0bfd59b7a38eb9ecf868371f5d279aa22b115ed1",
       "Requirements": [
         "R",
         "dplyr",
@@ -670,7 +670,7 @@
         "sf",
         "stringr"
       ],
-      "Hash": "066c0c7b0cf280d23b2887f7d9f835a0"
+      "Hash": "bf8f028f046d9b9887032417f0c66a10"
     },
     "memoise": {
       "Package": "memoise",

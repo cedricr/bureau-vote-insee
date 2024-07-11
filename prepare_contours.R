@@ -48,8 +48,6 @@ plan(multicore, workers = 4)
 
 departements = distinct(communes, codeDepartement)$codeDepartement
 for (dept in departements) {
-  # TODO quel est le problème de Mayotte ?
-  if (dept == "976") next
   path = glue("processed/contours_bv_{dept}.geojson")
   if (!file.exists(path)) {
     coms = communes |> filter(codeDepartement == dept)
