@@ -1,3 +1,7 @@
+Dépôt déplacé vers https://codeberg.org/cedricr/bureau-vote-insee
+
+***
+
 # Génération des contours des bureaux de vote
 
 Ce script génère une approximation du contour des bureaux de vote à partir du
